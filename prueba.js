@@ -1,5 +1,5 @@
-function prueba(){
-    console.log('Hola github');
+function prueba(x){
+    console.log('Hola github soy ' + x);
 }
 
-prueba();
+prueba(Daniela);
